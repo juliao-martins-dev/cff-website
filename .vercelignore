@@ -1,0 +1,9 @@
+# Internal / planning files — keep OUT of the public deployment
+Brief
+Antigravity_Task.md
+DESCRIPTION.md
+README.md
+
+# OS junk
+.DS_Store
+**/.DS_Store
